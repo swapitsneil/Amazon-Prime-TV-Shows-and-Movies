@@ -9,6 +9,7 @@ The objective is to understand how Amazon Prime structures its content library a
 ---
 
 
+Notebook - https://colab.research.google.com/drive/1X_Va8XxVxKdPWZ5izJ7jRUo1JDm5lgCj?usp=sharing
 VideoExplanation - https://www.youtube.com/watch?v=nQhV__Wf9Hk
 
 
