@@ -122,6 +122,18 @@ Contains cast and crew information:
 
 ---
 
+## Screenshots
+
+![Visual1](images/eda1.png)
+
+![Visual2](images/eda2.png)
+
+![Visual3](images/eda3.png)
+
+![Visual4](images/eda4.png)
+
+---
+
 ## 📊 Key Insights
 
 ### Content Strategy
