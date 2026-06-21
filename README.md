@@ -6,6 +6,8 @@ This project performs an Exploratory Data Analysis (EDA) on the Amazon Prime Vid
 
 The objective is to understand how Amazon Prime structures its content library and identify patterns that can support content strategy, audience engagement, and business decision-making.
 
+Project by Almabetter
+
 ---
 
 
