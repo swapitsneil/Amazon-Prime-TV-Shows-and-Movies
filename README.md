@@ -128,6 +128,7 @@ Contains cast and crew information:
 
 ## Screenshots
 
+### Python 
 ![Visual1](images/eda1.png)
 
 ![Visual2](images/eda2.png)
@@ -135,6 +136,14 @@ Contains cast and crew information:
 ![Visual3](images/eda3.png)
 
 ![Visual4](images/eda4.png)
+
+
+### PowerBI
+![Visual5](images/amazonalmabetter1.png)
+
+![Visual6](images/amazonalmabetter2.png)
+
+![Visual7](images/amazonalmabetter3.png)
 
 ---
 
