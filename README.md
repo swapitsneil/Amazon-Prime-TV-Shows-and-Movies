@@ -269,12 +269,12 @@ powerbi/Amazon Dashboard.pbix
 
 ## 🚀 Future Improvements
 
-* Advanced statistical analysis
-* Genre-level deep dive
-* Predictive modeling for IMDb ratings
-* Recommendation system development
-* Interactive Power BI Dashboard
-* Streamlit Analytics Application
+- Predictive IMDb Rating Model
+- Content Recommendation System
+- Genre-based Clustering
+- Streamlit Analytics Application
+- Automated ETL Pipeline
+- Real-time Dashboard Integration
 
 ---
 
