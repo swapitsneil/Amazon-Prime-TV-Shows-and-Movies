@@ -31,6 +31,32 @@ The analysis aims to answer key business questions such as:
 * What characteristics are associated with highly rated content?
 
 ---
+## 📂 Repository Structure
+
+```text
+Amazon-Prime-TV-Shows-and-Movies/
+│
+├── notebook/
+│   └── Amazon_Prime_EDA.ipynb
+│
+├── powerbi/
+│   └── Amazon Dashboard.pbix
+│
+├── images/
+│   ├── eda1.png
+│   ├── eda2.png
+│   ├── eda3.png
+│   ├── eda4.png
+│   ├── amazonalmabetter1.png
+│   ├── amazonalmabetter2.png
+│   └── amazonalmabetter3.png
+│
+├── dataset/
+│
+└── README.md
+```
+
+---
 
 ## 📂 Dataset Information
 
