@@ -237,16 +237,23 @@ powerbi/Amazon Dashboard.pbix
 
 ## 📈 Visualizations Included
 
-* Movies vs TV Shows Distribution
-* Release Year Trend Analysis
-* Runtime Distribution
-* IMDb Score Distribution
-* Correlation Heatmap
-* Content by Country
-* Genre Analysis
-* Actor Participation Analysis
-* Director Participation Analysis
-* Rating & Popularity Analysis
+### Python EDA
+
+- Content Type Distribution
+- Runtime Analysis
+- Release Year Trends
+- IMDb Score Distribution
+- Correlation Analysis
+- Country Analysis
+- Genre Analysis
+- Actor & Director Analysis
+
+### Power BI Dashboard
+
+- Executive Overview Dashboard
+- Content & Creator Intelligence
+- Content Success Pattern Analysis
+- Interactive Filters & KPI Cards
 
 ---
 
