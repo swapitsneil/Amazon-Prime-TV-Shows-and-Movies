@@ -94,19 +94,21 @@ Contains cast and crew information:
 
 ### Programming & Analysis
 
-* Python
-* Pandas
-* NumPy
+- Python
+- Pandas
+- NumPy
 
 ### Data Visualization
 
-* Matplotlib
-* Seaborn
+- Matplotlib
+- Seaborn
+- Power BI
 
 ### Development Environment
 
-* Google Colab
-* Jupyter Notebook
+- Google Colab
+- Jupyter Notebook
+- Microsoft Power BI Desktop
 
 ---
 
