@@ -153,6 +153,42 @@ Contains cast and crew information:
 
 ---
 
+---
+
+# 📊 Power BI Dashboard
+
+After completing the Exploratory Data Analysis, the cleaned dataset was transformed into an interactive Power BI dashboard focused on business intelligence and executive decision-making.
+
+### Dashboard Pages
+
+### 📄 Page 1 – Executive Overview
+
+- Total Content KPIs
+- Movies vs TV Shows
+- IMDb & TMDB Rating KPIs
+- Release Year Trends
+- Production Country Analysis
+
+### 📄 Page 2 – Content & Creator Intelligence
+
+- Top 10 Highest Rated Titles
+- Top 10 Most Popular Titles
+- Top 10 Directors by Impact Score
+- Top 10 Actors by Impact Score
+
+### 📄 Page 3 – Content Success Patterns
+
+- Runtime vs IMDb Rating Analysis
+- Age Certification vs IMDb Rating Analysis
+
+The complete interactive dashboard is available in:
+
+```text
+powerbi/Amazon Dashboard.pbix
+```
+
+---
+
 ## Screenshots
 
 ### Python 
