@@ -1,12 +1,12 @@
-# 📺 Amazon Prime Video Content Analysis
+# 📺 Amazon Prime Video Analytics | Python EDA + Power BI Dashboard
 
 ## 📌 Project Overview
 
-This project performs an Exploratory Data Analysis (EDA) on the Amazon Prime Video dataset to uncover insights about content distribution, audience preferences, production trends, ratings, and talent participation across the platform.
+This project presents an end-to-end analysis of the Amazon Prime Video content catalogue by combining **Exploratory Data Analysis (EDA)** in Python with an **interactive Power BI dashboard**.
 
-The objective is to understand how Amazon Prime structures its content library and identify patterns that can support content strategy, audience engagement, and business decision-making.
+The project explores content distribution, audience ratings, production trends, creator performance, and content success patterns to uncover insights that support strategic business decisions. After performing data cleaning, transformation, and exploratory analysis, the findings were translated into executive-level Power BI dashboards for business intelligence and storytelling.
 
-AlmaBetter Curriculum Capstone Project
+Developed as part of the **AlmaBetter Curriculum Capstone Project**, this project demonstrates the complete analytics workflow—from raw data exploration to interactive dashboard development.
 
 ---
 
