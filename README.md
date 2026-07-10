@@ -36,8 +36,7 @@ The analysis aims to answer key business questions such as:
 ```text
 Amazon-Prime-TV-Shows-and-Movies/
 │
-├── notebook/
-│   └── Amazon_Prime_EDA.ipynb
+├── amazonprimeEDAproject.ipynb
 │
 ├── powerbi/
 │   └── Amazon Dashboard.pbix
